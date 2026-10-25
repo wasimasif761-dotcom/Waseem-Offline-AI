@@ -1,0 +1,6 @@
+{
+  "name": "Waseem Offline AI",
+  "description": "Production-ready, 100% offline Personal AI Assistant powered by Qwen on-device LLM with local RAG knowledge base and English, Urdu, and Arabic multilingual chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
